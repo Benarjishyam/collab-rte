@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/collab-rte/static/css/main.b224091f.css",
-    "main.js": "/collab-rte/static/js/main.73d991ac.js",
+    "main.js": "/collab-rte/static/js/main.f455b951.js",
     "static/js/787.a81b4141.chunk.js": "/collab-rte/static/js/787.a81b4141.chunk.js",
     "index.html": "/collab-rte/index.html",
     "main.b224091f.css.map": "/collab-rte/static/css/main.b224091f.css.map",
-    "main.73d991ac.js.map": "/collab-rte/static/js/main.73d991ac.js.map",
+    "main.f455b951.js.map": "/collab-rte/static/js/main.f455b951.js.map",
     "787.a81b4141.chunk.js.map": "/collab-rte/static/js/787.a81b4141.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b224091f.css",
-    "static/js/main.73d991ac.js"
+    "static/js/main.f455b951.js"
   ]
 }
