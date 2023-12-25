@@ -15,6 +15,8 @@ Experience our editor in action at [collab-rte](https://benarjishyam.github.io/c
 - **Database Support:** Alternative version available which uses MySQL for persistent document storage
    [mySQl version code](https://github.com/Benarjishyam/collabarative-text-editor).
 
+## UI screenshot
+<img width="376" alt="image" src="https://github.com/Benarjishyam/collab-rte/assets/64628567/374bcf1b-e3c0-4129-9e7a-6c0f6b1b996e">
 
 
 
